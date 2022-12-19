@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @davidwilliford99
-- 👀 I’m interested in software engineering, data structures & algorithms and mathematics
-- 🌱 I’m currently learning Angular, Java Spring, Docker, Jenkins and AWS
+👋 Hi, I’m @davidwilliford99
+👀 I’m interested in software engineering, data structures & algorithms and mathematics
+🌱 I’m currently learning Angular, Java Spring, Docker, Jenkins and AWS
 
 - My career goal is to be a full stack developer at a company that values my work and time.
 
