@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: WillifordD21@students.ecu.edu
 
-- Check out my personal website: https://davidwilliford99.github.io/PersonalSite/
+- Check out my personal website: https://davidwilliford.dev
 
 <!---
 davidwilliford99/davidwilliford99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
