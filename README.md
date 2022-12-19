@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David Williford. 
 - Aspiring software dev
-- I’m currently learning Angular, Java Spring, Docker, Jenkins and AWS. My career goal is to be a full stack developer at a company that values my work and time.
+- I’m currently learning Angular, Java Spring, Docker, Jenkins and AWS
 
 - 📫 How to reach me: WillifordD21@students.ecu.edu
 
