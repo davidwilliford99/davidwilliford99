@@ -1,4 +1,6 @@
-👋 Hi, I’m David Williford. I’m interested in software engineering, data structures & algorithms and mathematics. I’m currently learning Angular, Java Spring, Docker, Jenkins and AWS. My career goal is to be a full stack developer at a company that values my work and time.
+- 👋 Hi, I’m David Williford. 
+- I’m interested in software engineering, data structures & algorithms and mathematics. 
+- I’m currently learning Angular, Java Spring, Docker, Jenkins and AWS. My career goal is to be a full stack developer at a company that values my work and time.
 
 - 📫 How to reach me: WillifordD21@students.ecu.edu
 
