@@ -16,7 +16,7 @@ B.S. Computer Science @ East Carolina University
 </div>
 
 - 2+ years of application development
-- Primary Stack: React or Angular, Spring Boot, AWS, MySQL
+- Frameworks/Technologies: React, Angular, Spring Boot, AWS, MySQL, Tailwind CSS
 - Programming Languages: C++, C, Python, JavaScript, Typescript, Java.
 - Data abstraction and visualization
 - Cloud computing (AWS)
@@ -115,6 +115,6 @@ B.S. Computer Science @ East Carolina University
 
 <div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=sudip-mondal-2002&theme=onedark&column=9" alt="zumrudu-anka" />
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=davidwilliford99&theme=onedark&column=9" alt="zumrudu-anka" />
     </a>
 </div>
