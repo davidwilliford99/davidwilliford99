@@ -1,25 +1,27 @@
-# David Williford                                                                      
-B.S. Computer Science   
-East Carolina University 
-                                   
+# David Williford
+
+B.S. Computer Science  
+East Carolina University
+
 [E-mail](willifordD21@students.ecu.edu) | [LinkedIn](https://www.linkedin.com/in/davidwilliford99/) | [GitHub](https://github.com/sudip-mondal-2002)
 
 <div><a href="https://www.davidwilliford.dev"><img height="40px" src="./portfolio-button.png"></img></a></div>
 <div><a href="https://calendly.com/sudip-mondal-2002/15min"><img height="40px" src="./call-button.png"></img></a></div>
 
 ## Skills
+
 <div align=right>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-mondal-2002&theme=highcontrast&langs_count=10&layout=compact" />
     </a>
 </div>
 
-* Web and Mobile application Development 
-* DevOps Engineering, Process Automation, Version control
-* Programming Languages: C++, C, Python, JavaScript, Java.
-* Low level and High level system design
-* Cloud computation
-* Full stack software engineering
+- Web and Mobile application Development
+- DevOps Engineering, Process Automation, Version control
+- Programming Languages: C++, C, Python, JavaScript, Java.
+- Low level and High level system design
+- Cloud computation
+- Full stack software engineering
 
 ## Tools and Technologies
 
