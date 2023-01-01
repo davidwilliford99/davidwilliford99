@@ -4,9 +4,9 @@ B.S. Computer Science  @  East Carolina University
 
 [E-mail](willifordD21@students.ecu.edu) | [LinkedIn](https://www.linkedin.com/in/davidwilliford99/) | [GitHub](https://github.com/sudip-mondal-2002)
 <br />
-<div><a href="https://www.davidwilliford.dev"><img height="40px" src="./site-btn.png"></img></a></div>
+<div><a target="_blank" href="https://www.davidwilliford.dev"><img height="40px" src="./site-btn.png"></img></a></div>
 <br />
-<div><a href="https://www.linkedin.com/in/davidwilliford99/"><img height="40px" src="./contact-btn.png"></img></a></div>
+<div><a target="_blank" href="https://www.linkedin.com/in/davidwilliford99/"><img height="40px" src="./contact-btn.png"></img></a></div>
 
 
 ## Skills
