@@ -1,1 +1,1 @@
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidwilliford99&show_icons=true&theme=radical)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidwilliford99&show_icons=true&theme=dark)
