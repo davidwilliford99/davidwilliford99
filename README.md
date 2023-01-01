@@ -38,15 +38,15 @@ B.S. Computer Science @ East Carolina University
     <a href="https://getbootstrap.com" target="_blank" title ="Spring Boot"> <img
             src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
             alt="Spring Boot" width="40" height="40" /> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" title ="Typescript"> <img
-            src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"
-            alt="typescript" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" title ="MySQL"> <img
             src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"
             alt="MySQL" width="40" height="40" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" title ="MySQL"> <img
+            src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"
+            alt="MySQL" width="40" height="40" /> </a>
     <a href="https://aws.amazon.com/" target="_blank" title ="AWS"> <img
             src="https://mk0futurumreseabr7pm.kinstacdn.com/wp-content/uploads/2020/01/aws-logo.png"
             alt="aws" width="40" height="40" /> </a>
