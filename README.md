@@ -74,8 +74,10 @@ B.S. Computer Science @ East Carolina University
 <hr />
 <hr />
 
-### My Coding Journey
+## My Coding Journey
 <p>I started programming when I was 19. I had grown up playing a lot of video games and being surrounded by technology. I always was curious of the magic happening within these devices. I tinkered around with Python and C++ at first, mostly writing small scripts to solve math problems or control an Arduino. Then I began to see the vastness of the software feild, and how inmportant it is in the modern world. I switched my major to computer science shortly after, and I never thought I could enjoy a subject as much as I do. </p>
+
+<hr />
 
 <div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
