@@ -35,6 +35,9 @@ B.S. Computer Science @ East Carolina University
     <a href="https://angular.io/" target="_blank" title ="Angular"> <img
             src="https://brandslogos.com/wp-content/uploads/thumbs/angular-logo-vector.svg"
             alt="angular" width="40" height="40" /> </a>
+    <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
+            src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
+            alt="Spring Boot" width="40" height="40" /> </a>
     <a href="https://www.typescriptlang.org/" target="_blank" title ="Typescript"> <img
             src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"
             alt="typescript" width="40" height="40" /> </a>
