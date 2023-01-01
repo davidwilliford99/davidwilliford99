@@ -10,17 +10,17 @@ B.S. Computer Science @ East Carolina University
 ## Skills
 
 <div align=right>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-mondal-2002&theme=highcontrast&langs_count=10&layout=compact" />
+    <a href="https://github.com/anuragh/github-readme-stats">
+      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidwilliford99&theme=highcontrast&langs_count=10&layout=compact" />
     </a>
 </div>
 
-- Web and Mobile application Development
-- DevOps Engineering, Process Automation, Version control
-- Programming Languages: C++, C, Python, JavaScript, Java.
-- Low level and High level system design
-- Cloud computation
-- Full stack software engineering
+- 2+ years of application development
+- Primary Stack: React or Angular, Spring Boot, AWS, MySQL
+- Programming Languages: C++, C, Python, JavaScript, Typescript, Java.
+- Data abstraction and visualization
+- Cloud computing (AWS)
+- Data Structures & Algorithms
 
 ## Tools and Technologies
 
