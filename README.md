@@ -2,11 +2,10 @@
 
 <!-- Stats and Most Used Languages -->
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=davidwilliford99&show_icons=true&theme=highcontrast" />
-
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidwilliford99&layout=compact" />
 
-&nbsp;
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=davidwilliford99&show_icons=true&theme=highcontrast" />
+
 
 <!-- Framework badges -->
 
