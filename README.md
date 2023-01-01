@@ -35,7 +35,7 @@ B.S. Computer Science @ East Carolina University
     <a href="https://angular.io/" target="_blank" title ="Angular"> <img
             src="https://brandslogos.com/wp-content/uploads/thumbs/angular-logo-vector.svg"
             alt="angular" width="40" height="40" /> </a>
-    <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
+    <a href="https://getbootstrap.com" target="_blank" title ="Spring Boot"> <img
             src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
             alt="Spring Boot" width="40" height="40" /> </a>
     <a href="https://www.typescriptlang.org/" target="_blank" title ="Typescript"> <img
@@ -50,6 +50,9 @@ B.S. Computer Science @ East Carolina University
     <a href="https://www.w3schools.com/cpp/" target="_blank" title ="C++"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
             alt="cplusplus" width="40" height="40" /> </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" title ="MySQL"> <img
+            src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"
+            alt="MySQL" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/css/" target="_blank" title ="CSS">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" /> </a>
