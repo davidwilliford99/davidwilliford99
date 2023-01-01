@@ -6,7 +6,7 @@ East Carolina University
 [E-mail](willifordD21@students.ecu.edu) | [LinkedIn](https://www.linkedin.com/in/davidwilliford99/) | [GitHub](https://github.com/sudip-mondal-2002)
 
 <div><a href="https://www.davidwilliford.dev"><img height="40px" src="./site-btn.png"></img></a></div>
-<div><a href="https://calendly.com/sudip-mondal-2002/15min"><img height="40px" src="./call-button.png"></img></a></div>
+<div><a href="willifordD21@students.ecu.edu"><img height="40px" src="./contact-btn.png"></img></a></div>
 
 ## Skills
 
