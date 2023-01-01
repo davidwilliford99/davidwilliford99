@@ -70,6 +70,8 @@ B.S. Computer Science @ East Carolina University
 </p>
 
 <hr />
+<hr />
+<hr />
 
 <div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
