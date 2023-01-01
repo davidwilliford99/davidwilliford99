@@ -29,18 +29,21 @@ B.S. Computer Science @ East Carolina University
  </a>
  
 <p align="left">
-    <a href="https://angular.io/" target="_blank" title ="Angular"> <img
-            src="https://brandslogos.com/wp-content/uploads/thumbs/angular-logo-vector.svg"
-            alt="angular" width="40" height="40" /> </a>
     <a href="https://reactjs.org/" target="_blank" title ="React.js"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a>
+    <a href="https://angular.io/" target="_blank" title ="Angular"> <img
+            src="https://brandslogos.com/wp-content/uploads/thumbs/angular-logo-vector.svg"
+            alt="angular" width="40" height="40" /> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" title ="Typescript"> <img
+            src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"
+            alt="typescript" width="40" height="40" /> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="javascript" width="40" height="40" /> </a>
     <a href="https://aws.amazon.com/" target="_blank" title ="AWS"> <img
             src="https://mk0futurumreseabr7pm.kinstacdn.com/wp-content/uploads/2020/01/aws-logo.png"
             alt="aws" width="40" height="40" /> </a>
-    <a href="https://postman.com" target="_blank" title ="Postman"> <img
-            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-            height="40" /> </a>
     <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" /> </a>
@@ -55,18 +58,15 @@ B.S. Computer Science @ East Carolina University
     <a href="https://www.w3.org/html/" target="_blank" title ="html"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5" width="40" height="40" /> </a>
+    <a href="https://postman.com" target="_blank" title ="Postman"> <img
+            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
+            height="40" /> </a>
     <a href="https://www.java.com/en/" target="_blank" title ="java"> <img
             src="https://www.oracle.com/a/ocom/img/obic-java-cup.svg"
             alt="java" width="40" height="40" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a>
     <a href="https://www.python.org" target="_blank" title ="Python"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" title ="Typescript"> <img
-            src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"
-            alt="typescript" width="40" height="40" /> </a>
 </p>
 
 <hr />
