@@ -77,8 +77,9 @@ B.S. Computer Science  @  East Carolina University
 <hr />
 
 ## My Coding Journey
-<p>I started programming when I was around 19/20. I had grown up playing a lot of video games, producing eletronic musc, and was just always surrounded and consumed by technology. I am a very curious person, and love to know how and why things work. I tinkered around with Python and C++ at first, mostly writing small scripts to solve math problems or perform simple terminal applications. Then I began to create small applications and web pages, and that is really when I fell in love with programming. Nothing is more satisfying than building a working application peice by peice, and seeing it all come together. I switched my majors from engineering to computer science, and I feel like I have finally found the major I belong in. </p>
+<p>I started programming when I was around 19 years old. Gorwing up, I played a lot of video games, produced eletronic musc, and was always surrounded and consumed by technology. I am a very curious person, and love to know how and why things work. I tinkered around with Python and C++ at first, mostly writing small scripts to perform math problems or make simple terminal applications. Then I began to create small applications and web pages, and that is really when I fell in love with programming. This is when I decided to pursue computer science. I switched my majors from engineering to computer science, and I feel like I have finally found the major I belong in. </p>
 
+<p>Nothing is more satisfying than building a working application peice by peice, and seeing it all come together.</p>
 <hr />
 
 <div align=center>
