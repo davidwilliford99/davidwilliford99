@@ -18,10 +18,9 @@ B.S. Computer Science  @  East Carolina University
     </a>
 </div>
 
-- 2+ years of programming experience
-- Frameworks/Technologies: React, Angular, Spring Boot, AWS, MySQL, Tailwind CSS
+- 5+ years of programming experience
+- Frameworks/Technologies: React, Angular, Spring Boot, AWS, Django, MySQL, Tailwind, Docker
 - Programming Languages: C++, C, Python, JavaScript, Typescript, Java.
-- Data abstraction and visualization
 - Cloud computing (AWS)
 - Data Structures & Algorithms
 
