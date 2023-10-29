@@ -5,7 +5,7 @@ B.S. Computer Science  @  East Carolina University
 
 [E-mail](https://www.linkedin.com/in/davidwilliford99/) | [LinkedIn](https://www.linkedin.com/in/davidwilliford99/) | [GitHub](https://github.com/sudip-mondal-2002)
 <hr />
-<div><a href="https://www.davidwilliford.dev"><img height="40px" src="./site-btn.png"></img></a></div>
+<div><a href="https://davidwilliford.dev"><img height="40px" src="./site-btn.png"></img></a></div>
 <br />
 <div><a href="https://www.linkedin.com/in/davidwilliford99/"><img height="40px" src="./contact-btn.png"></img></a></div>
 
@@ -19,8 +19,8 @@ B.S. Computer Science  @  East Carolina University
 </div>
 
 - 5+ years of programming experience
-- Frameworks/Technologies: React, Angular, Spring Boot, AWS, Django, MySQL, Tailwind, Docker
-- Programming Languages: C++, C, Python, JavaScript, Typescript, Java.
+- Frameworks/Technologies: React, Angular, Spring Boot, AWS, Django, SQL, Tailwind, Docker, Shopify 
+- Programming Languages: C++, C, Python, JavaScript, Typescript, Java, Liquid
 - Cloud computing (AWS)
 - Data Structures & Algorithms
 
