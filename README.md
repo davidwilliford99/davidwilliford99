@@ -19,7 +19,7 @@ Professional Software Developer
 </div>
 
 - 6 years of programming experience
-- Primary Experience: Fullstack Web Development, Cloud, Ecommerce
+- Primary Experience: Fullstack Web Development, Cloud, Ecommerce, Microservices
 - Primary Tech: Shopify, Next.js, REST APIs, Python, Javascript
 - For Fun: Game Modding, Operating Systems, Server Hosting
 
@@ -29,35 +29,16 @@ Professional Software Developer
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=davidwilliford99&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true&count_private=true"/>
  </a>
  
-<p align="left">
-    <a href="https://reactjs.org/" target="_blank" title ="React.js"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" /> </a>
-    <a href="https://getbootstrap.com" target="_blank" title ="Spring Boot"> <img
-            src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-            alt="Spring Boot" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" title ="MySQL"> <img
-            src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"
-            alt="MySQL" width="40" height="40" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" title ="Typescript"> <img
-            src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"
-            alt="typescript" width="40" height="40" /> </a>
-    <a href="https://aws.amazon.com/" target="_blank" title ="AWS"> <img
-            src="https://mk0futurumreseabr7pm.kinstacdn.com/wp-content/uploads/2020/01/aws-logo.png"
-            alt="aws" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" title ="C++"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40" /> </a>
-    <a href="https://www.java.com/en/" target="_blank" title ="java"> <img
-            src="https://www.oracle.com/a/ocom/img/obic-java-cup.svg"
-            alt="java" width="40" height="40" /> </a>
-    <a href="https://www.python.org" target="_blank" title ="Python"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a>
-</p>
+<ul>
+ <li>Shopify</li>
+ <li>React</li>
+ <li>SQL</li>
+ <li>Django</li>
+ <li>Flask</li>
+ <li>Java</li>
+ <li>Typescript</li>
+ <li>Tailwind</li>
+</ul>
 
 <hr />
 <hr />
