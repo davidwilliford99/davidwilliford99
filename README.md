@@ -47,7 +47,7 @@ Professional Software Developer
  
  <div align=center>
     <a href="https://github.com/anuragh/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidwilliford99&theme=highcontrast&langs_count=10&layout=compact" />
+      <img width=325 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidwilliford99&theme=highcontrast&langs_count=10&layout=compact" />
     </a>
       <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=davidwilliford99&theme=onedark&column=9" alt="zumrudu-anka" />
