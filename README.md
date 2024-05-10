@@ -36,6 +36,7 @@ Professional Software Developer
  <li>Django</li>
  <li>Flask</li>
  <li>Java</li>
+ <li>C++</li>
  <li>Typescript</li>
  <li>Tailwind</li>
 </ul>
