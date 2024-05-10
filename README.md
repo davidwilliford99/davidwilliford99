@@ -45,7 +45,7 @@ Professional Software Developer
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=davidwilliford99&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true&count_private=true"/>
  </a>
  
- <div align=right>
+ <div align=left>
     <a href="https://github.com/anuragh/github-readme-stats">
       <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidwilliford99&theme=highcontrast&langs_count=10&layout=compact" />
     </a>
