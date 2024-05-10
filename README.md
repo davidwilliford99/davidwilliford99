@@ -23,6 +23,7 @@ Professional Software Developer
  <li>Shopify</li>
  <li>React</li>
  <li>SQL</li>
+ <li>AWS</li>
  <li>Django</li>
  <li>Flask</li>
  <li>Java</li>
