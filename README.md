@@ -57,3 +57,5 @@ Professional Software Developer
 <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
   <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=davidwilliford99&theme=onedark&column=9" alt="zumrudu-anka" />
 </a>
+
+---
