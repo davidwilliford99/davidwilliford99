@@ -52,7 +52,6 @@ Professional Software Developer
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidwilliford99&theme=highcontrast&langs_count=10&layout=compact" />
 </a>
 
-<br/>
 --- 
 
 <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
