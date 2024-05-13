@@ -15,7 +15,7 @@ Professional Software Developer
 - 6 years of programming experience
 - Primary Experience: Fullstack Web Development, Cloud, Ecommerce, Microservices
 - Primary Tech: Shopify, Next.js, REST APIs, Python, Javascript
-- For Fun: Game Modding, Operating Systems, Server Hosting
+- For Fun: Game Modding, Reverse Engineering, Operating Systems, etc etc.
 
 ## Tools and Technologies
  
