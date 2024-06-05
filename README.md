@@ -12,10 +12,8 @@ Professional Software Developer
 
 ## My Experience & Technology
 
-- 6 years of programming experience
+- Over 6 years of experience building software applications
 - Primary Experience: Fullstack Web Development, Cloud, Ecommerce, Microservices
-- Primary Tech: Shopify, Next.js, REST APIs, Python, Javascript
-- For Fun: Game Modding, Reverse Engineering, Operating Systems, etc etc.
 
 ## Tools and Technologies
  
