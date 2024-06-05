@@ -9,33 +9,21 @@ Professional Software Developer
 <br />
 <div><a href="https://www.linkedin.com/in/davidwilliford99/"><img height="40px" src="./contact-btn.png"></img></a></div>
 
+Tech nerd with 6+ Years of Professional Dev Experience
 
-## My Experience & Technology
-
-- Over 6 years of experience building software applications
-- Primary Experience: Fullstack Web Development, Cloud, Ecommerce, Microservices
-
-## Tools and Technologies
+## Primary Skills
  
 <ul>
- <li>Shopify</li>
- <li>React</li>
- <li>SQL</li>
- <li>AWS</li>
- <li>Django</li>
- <li>Flask</li>
- <li>Java</li>
- <li>C++</li>
- <li>Typescript</li>
- <li>Tailwind</li>
+ <li>Web Development</li>
+ <li>REST APIs</li>
+ <li>Ecommerce</li>
+ <li>Cloud Computing</li>
+ <li>General Programming</li>
 </ul>
 
 <hr />
 <hr />
 <hr />
-
-## My Background
-<p>I started programming when I was around 18. Growing up, I was always fascinated by technology and how it works. Primarily the internet. I am a very curious person, and love to know how things work. I began to create small applications and web pages, and that began my passion for software development. I decided to pursue computer science as more than a hobby. I switched my majors from engineering to computer science shortly after, and graduated in May of 2024 with my Bachelors in Computer Science. For now, I am working as a software developer, but plan on continuing my education in the future.</p>
 
 <p>Nothing is more satisfying than building a working application peice by peice, and seeing it all come together.</p>
 <hr />
