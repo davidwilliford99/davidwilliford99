@@ -4,10 +4,14 @@ Professional Software Developer
  | d9899w@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/davidwilliford99/) | [GitHub](https://github.com/sudip-mondal-2002)
-<hr />
-<div><a href="https://davidwilliford.dev"><img height="40px" src="./site-btn.png"></img></a></div>
-<br />
-<div><a href="https://www.linkedin.com/in/davidwilliford99/"><img height="40px" src="./contact-btn.png"></img></a></div>
+
+<div style="display: flex; gap: 20px;">
+ <a href="https://blog.davidwilliford.dev/">
+   ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
+ </a>
+</div>
+
+
 
 Tech nerd with 6+ Years of Professional Dev Experience
 
