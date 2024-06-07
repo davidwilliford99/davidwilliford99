@@ -5,11 +5,9 @@ Professional Software Developer
 
 [LinkedIn](https://www.linkedin.com/in/davidwilliford99/) | [GitHub](https://github.com/sudip-mondal-2002)
 
-<div style="display: flex; gap: 20px;">
  <a href="https://blog.davidwilliford.dev/">
    ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
  </a>
-</div>
 
 ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
 
