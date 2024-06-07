@@ -34,7 +34,6 @@ Professional Software Developer with around 6 years of experience. Currently emp
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-And I have used a lot of others
 <hr/>
 <a href="https://github.com/anuragh/github-readme-stats">
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidwilliford99&theme=highcontrast&langs_count=10&layout=compact" />
