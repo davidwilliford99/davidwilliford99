@@ -1,32 +1,12 @@
 # David Williford
 
-Professional Software Developer
- | d9899w@gmail.com
-
-[LinkedIn](https://www.linkedin.com/in/davidwilliford99/) | [GitHub](https://github.com/sudip-mondal-2002)
+Professional Software Developer with around 6 years of experience. Currently employed in ecommerce.
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-
-
-Tech nerd with 6+ Years of Professional Dev Experience
-
-## Primary Skills
- 
-<ul>
- <li>Web Development</li>
- <li>REST APIs</li>
- <li>Ecommerce</li>
- <li>Cloud Computing</li>
- <li>General Programming</li>
-</ul>
-
 <hr />
-<hr />
-<hr />
-
 <p>Nothing is more satisfying than building a working application peice by peice, and seeing it all come together.</p>
 <hr />
 
