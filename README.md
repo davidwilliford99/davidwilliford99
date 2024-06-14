@@ -47,15 +47,3 @@ Contact me here:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<hr/>
-<a href="https://github.com/anuragh/github-readme-stats">
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidwilliford99&theme=highcontrast&langs_count=10&layout=compact" />
-</a>
-<br/>
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=davidwilliford99&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true&count_private=true"/>
- </a>
- <br/>
-<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-  <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=davidwilliford99&theme=onedark&column=9" alt="zumrudu-anka" />
-</a>
