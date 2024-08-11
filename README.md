@@ -12,7 +12,7 @@
 
 
 <hr />
-<p>Nothing is more satisfying than building a working application peice by peice, and seeing it all come together.</p>
+<p>Software creator, code reader, solution handler</p>
 <hr />
 
 ### I Know these technologies pretty well ...
