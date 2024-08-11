@@ -11,9 +11,7 @@
 </a>
 
 
-<hr />
-<p>Software creator, code reader, solution handler</p>
-<hr />
+<p>Software creator, code reader, bug fixer</p>
 
 ### Current Stack
 
