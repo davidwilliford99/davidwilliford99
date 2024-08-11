@@ -1,6 +1,6 @@
 # David Williford
-<p>Software creator, code reader, bug fixer</p>
-
+<p>Webdev, Cloud, CMS and APIs</p>
+<p>Bug fixer, code reader, solution builder</p>
 
 ### Contact / Blog
 
