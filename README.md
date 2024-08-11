@@ -15,7 +15,7 @@
 <p>Software creator, code reader, solution handler</p>
 <hr />
 
-## Current Stack
+### Current Stack
 
 | **Category** | **Technologies** |
 |--------------|------------------|
