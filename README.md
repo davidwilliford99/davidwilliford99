@@ -1,17 +1,14 @@
 # David Williford
-
-<a href="mailto:d9899w@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="https://blog.davidwilliford.dev">
-  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">
-</a>
-<a href="https://www.linkedin.com/in/davidwilliford99/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-
 <p>Software creator, code reader, bug fixer</p>
+
+
+## Contact Me
+
+| **Platform** | **Link** |
+|--------------|----------|
+| **Email**    | <a href="mailto:d9899w@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> |
+| **Blog**     | <a href="https://blog.davidwilliford.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"></a> |
+
 
 ### Current Stack
 
