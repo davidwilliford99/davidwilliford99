@@ -10,7 +10,7 @@
 | **Blog**     | <a href="https://blog.davidwilliford.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"></a> |
 
 
-### Current Stack
+### Currently Using ...
 
 | **Category** | **Technologies** |
 |--------------|------------------|
