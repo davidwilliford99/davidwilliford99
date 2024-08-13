@@ -4,11 +4,8 @@
 * Shopify Savant 
 
 ### Contact Me / Blog
-
-| **Platform** | **Link** |
-|--------------|----------|
-| **Email**    | <a href="mailto:d9899w@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> |
-| **Blog**     | <a href="https://blog.davidwilliford.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"></a> |
+<a href="mailto:d9899w@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://blog.davidwilliford.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"></a>
 
 
 ### Currently Using ...
