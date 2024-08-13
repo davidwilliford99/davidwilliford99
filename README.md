@@ -1,7 +1,6 @@
 # David Williford
 * Webdev, Cloud, Ecommerce, APIs and More
-* Bug fixer, code reader, solution builder
-* Shopify Savant 
+* Bug fixer, code reader, solution builder, cms crusader 
 
 ### Contact Me / Blog
 <a href="mailto:d9899w@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
