@@ -1,13 +1,10 @@
 # David Williford
-* Webdev, Cloud, Ecommerce, APIs and More
-* Bug fixer, code reader, solution builder, cms crusader 
+Software Development and Architecture. Primarily in Cloud & Ecommerce
 
 ### Contact Me / Blog
 <a href="mailto:d9899w@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://blog.davidwilliford.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"></a>
 
-
-### Currently Using ...
 
 | **Category** | **Technologies** |
 |--------------|------------------|
