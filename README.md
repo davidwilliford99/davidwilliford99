@@ -10,7 +10,7 @@ Software Development and Architecture. Primarily in Cloud & Ecommerce
 <a href="mailto:d9899w@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 ### More About Me
-I am a passionate software dev and a Computer Science graduate from East Carolina University. I was always fascinated by the internet as a kid. I am always learning new things and sharpening my existing skills. I deeply enjoy cloud computing, systems design and computer networking topics. Always open to discuss things. Never be afraid to reach out :)
+I am a passionate software dev and a Computer Science graduate from East Carolina University. I was always fascinated by the internet and online gaming as a kid, which led to me pursuing a career in computing. I am always learning new things and sharpening my existing skills. I deeply enjoy cloud computing, systems design and computer networking topics. Always open to discuss things. Never be afraid to reach out :)
 
 
 ### My Primary Tools
