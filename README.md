@@ -1,12 +1,16 @@
 # David Williford
 Software Development and Architecture. Primarily in Cloud & Ecommerce
 
+---
+
 ### Contact Me / Blog
 <a href="mailto:d9899w@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://blog.davidwilliford.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"></a>
 <a href="https://www.linkedin.com/in/davidwilliford99/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-### My Primary Tools
+---
+
+### Tools That I Use
 
 | **Category** | **Technologies** |
 |--------------|------------------|
