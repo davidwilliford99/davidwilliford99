@@ -9,8 +9,8 @@ Software Development and Architecture. Primarily in Cloud & Ecommerce
 <a href="https://www.linkedin.com/in/davidwilliford99/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
+I am a passionate software dev and a Computer Science graduate from East Carolina University. I am always learning new things and sharpening my existing skills. I deeply enjoy cloud computing, systems design and computer networking topics. Always open to discuss things. Never be afraid to reach out :)
 
-### Tools That I Use
 
 | **Category** | **Technologies** |
 |--------------|------------------|
