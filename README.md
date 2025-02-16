@@ -10,7 +10,7 @@ Passionate Software Dev :)
 <a href="mailto:d9899w@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 ### More About Me
-I am a passionate software dev and a Computer Science graduate from East Carolina University. I was always fascinated by the internet and online gaming as a kid, which led to me pursuing a career in computing. I am always learning new things and sharpening my existing skills. I deeply enjoy cloud computing, systems design and computer networking topics. Always open to discuss things. Never be afraid to reach out :)
+I am a passionate software dev and a Computer Science graduate. I was always fascinated by the internet and technology as a kid, leading to me studying CS in college and working in software. I am always learning new things and sharpening my existing skills. I enjoy topics involving development, cloud computing, mathematics, systems design, computer architecture and computer networking. Always open to discuss things. Never be afraid to reach out :)
 
 
 ### My Primary Tools
