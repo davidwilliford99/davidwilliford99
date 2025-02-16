@@ -1,7 +1,7 @@
 # David Williford
 <a href="https://davidwilliford.dev">My Personal Website</a>
 
-Software Development and Architecture. Primarily in Cloud & Ecommerce
+Passionate Software Dev :)
 
 
 ### Contact & Info
